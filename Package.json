@@ -1,0 +1,17 @@
+{
+  "name": "lead-debounce",
+  "version": "1.0.0",
+  "description": "Red Team Email Validation Framework – FOR AUTHORIZED TESTING ONLY",
+  "main": "lead-debounce.js",
+  "scripts": {
+    "start": "node lead-debounce.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "socks-proxy-agent": "^8.0.1"
+  },
+  "author": "</>",
+  "license": "UNLICENSED",
+  "private": true
+}
