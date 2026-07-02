@@ -67,7 +67,7 @@ function showBanner() {
             // Version and author
             console.log(chalk.green('------------------------------------------'));
             console.log(chalk.yellow(' Version 1.0.0'));
-            console.log(chalk.yellow(' Author : </>'));
+            console.log(chalk.yellow(' Author : IamG2'));
             console.log(chalk.green('------------------------------------------'));
             console.log(chalk.red.bold('  FOR AUTHORIZED TESTING ONLY!'));
             console.log(chalk.red('  Unauthorized use is a FEDERAL CRIME.'));
