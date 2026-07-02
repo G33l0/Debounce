@@ -15,7 +15,7 @@ Use **only** against systems you own or have explicit written permission to test
 ## 📦 Installation
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/g33l0/Debounce.git
 cd lead-debounce
 npm install
 ```
@@ -80,4 +80,4 @@ The authors assume **no liability** for misuse.
 
 ---
 
-**Made with** ❤️ **by </>**
+**Made with** ❤️ **by IamG2**
